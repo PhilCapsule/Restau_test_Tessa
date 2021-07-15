@@ -1,5 +1,11 @@
-import logo from './logo.svg';
+import React from 'react';
+import 'bootstrap/dist/css/bootstrap.min.css';
 import './App.css';
+import {
+  Container,
+  Row,
+  Nav,
+} from 'reactstrap';
 
 function App() {
   return (
